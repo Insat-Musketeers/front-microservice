@@ -1,0 +1,19 @@
+.productWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+nb-card {
+  width: 30%;
+}
+nb-card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  border: 1px gray solid;
+  margin: 20px;
+}

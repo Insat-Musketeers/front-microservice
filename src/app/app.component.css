@@ -1,0 +1,17 @@
+.headStyle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+  width: 70%;
+}
+
+.productWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+nb-card {
+  width: 30%;
+}
